@@ -14,3 +14,10 @@ console.log(a, b)
 const c = 5
 
 console.log (c)
+
+a = 0.1
+b = 0.7
+
+d = a + b
+
+console.log(d.toFixed(1))
